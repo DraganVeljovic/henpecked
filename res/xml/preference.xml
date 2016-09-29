@@ -1,0 +1,5 @@
+
+    <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+        <EditTextPreference android:dialogTitle="Unesi Broj" android:title="Broj na koji se salje" android:defaultValue="0642910617" android:enabled="true" android:positiveButtonText="Ok" android:negativeButtonText="Cancel"/>
+        
+    </PreferenceScreen>
